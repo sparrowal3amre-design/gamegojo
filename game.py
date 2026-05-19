@@ -21,7 +21,7 @@ pygame.init()
 # ==========================================
 # ONLINE
 # ==========================================
-SERVER_IP = "YOUR_RENDER_SERVER.onrender.com"
+SERVER_IP = "https://gamegojo.onrender.com"
 PORT = 5555
 
 client = socket.socket(
